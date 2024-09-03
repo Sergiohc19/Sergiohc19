@@ -1,4 +1,5 @@
-<div display="flex" align="center"  >
+<div display="flex" align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center"><b>Hi , I'm Sergio Hernández </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -8,6 +9,7 @@
   <a href="https://www.linkedin.com/in/sergio-hern%C3%A1ndez-carpintero/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
   <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
@@ -15,8 +17,13 @@
     <img src="https://skillicons.dev/icons?i=js,py,react,mysql,nodejs,git,github,php,sqlite,postman,vscode,bash,css,html&perline=7" />
   </a>
 </p>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+
+[![Sergiohc19's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiohc19)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
