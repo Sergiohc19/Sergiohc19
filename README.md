@@ -1,16 +1,22 @@
-## Hi there 👋
+<div display="flex" align="center"  >
+<h1 align="center"><b>Hi , I'm Sergio Hernández </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**Sergiohc19/sergiohc19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=80&color=BDBDBD&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=880&height=100&lines=Welcome+to+my+GitHub%F0%9F%98%83%2C+I'm+a+full-stack+developer.+;Here+you+can+see+the+technologies+;I+use+and+my+projects." alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-hern%C3%A1ndez-carpintero/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+</p>
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,react,mysql,nodejs,git,github,php,sqlite,postman,vscode,bash,css,html&perline=7" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </div>
