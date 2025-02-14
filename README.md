@@ -14,7 +14,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,,typescript,angular,react,next.js,flask,mysql,nodejs,express,jest,vite,git,github,postman,vscode,cursor,pycharm,bash,tailwind,bootstrap,css,html&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,py,,typescript,angular,react,next.js,flask,mysql,nodejs,expres,jest,vite,git,github,postman,vscode,pycharm,bash,tailwind,bootstrap,css,html&perline=7" />
   </a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
